@@ -1,0 +1,15 @@
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/bin/Debug/net6.0/dotnet
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/bin/Debug/net6.0/dotnet.deps.json
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/bin/Debug/net6.0/dotnet.runtimeconfig.json
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/bin/Debug/net6.0/dotnet.dll
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/bin/Debug/net6.0/dotnet.pdb
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.csproj.AssemblyReference.cache
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfoInputs.cache
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfo.cs
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.dll
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/refint/dotnet.dll
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.pdb
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/dotnet.genruntimeconfig.cache
+/Users/DinDas/Desktop/ EXAMPLE/ex1/dotnet/obj/Debug/net6.0/ref/dotnet.dll
